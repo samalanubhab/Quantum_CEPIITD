@@ -1,1 +1,1 @@
-# Quantum_CEPIITD assignments
+# Quantum_CEPIITD assignments weekwise notes
